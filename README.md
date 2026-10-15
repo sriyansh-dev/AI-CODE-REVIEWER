@@ -5,7 +5,6 @@ An AI-powered tool that reviews source code and returns structured, actionable f
 ![Status](https://img.shields.io/badge/status-in%20development-orange)
 ![License](https://img.shields.io/badge/license-MIT-blue)
 
-> **Demo:** `[add live link or screenshot here]`
 
 ---
 
